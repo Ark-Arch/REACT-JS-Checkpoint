@@ -1,1 +1,1 @@
-# ES6-Checkpoint
+# REACT-JS-Checkpoint
